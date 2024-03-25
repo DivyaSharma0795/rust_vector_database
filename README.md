@@ -58,7 +58,7 @@ The histogram is then saved as a PNG image named `output.png` in the project's r
 
 Here's an example of what the output might look like:
 
-![Histogram](output.png)
+![Histogram](myrustproject/output.png)
 
 Please note that the actual output will vary because the program generates a random number of each value (1 through 10) each time it runs.
 
